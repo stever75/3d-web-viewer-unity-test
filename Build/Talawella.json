@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WebGL_Test",
+"dataUrl": "Talawella.data.unityweb",
+"wasmCodeUrl": "Talawella.wasm.code.unityweb",
+"wasmFrameworkUrl": "Talawella.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#151A1D",
+"cacheControl": {"default": "must-revalidate"}
+}
